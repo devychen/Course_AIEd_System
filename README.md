@@ -4,6 +4,9 @@
 6 credits graded. **Team member**: Yifei Chen, Kathy Yang. <br>
 **Requirements**: a prototype of a AI-supported education application.
 
+### Useful links
+[tool-competition](https://tools-competition.org/)
+
 ### Project Proposal
 
 
