@@ -1,10 +1,4 @@
-# Course Education System for AI
-
-### Credit Points
-6 credits graded. **Team member**: Yifei Chen, Kathy Yang. <br>
-**Requirements**: a prototype of a AI-supported education application.
-
-### Project Proposal
+# Project Proposal
 **The Idea: Learning through games** <br>
 We want to create a web game to help students practice vocabulary. 
 The target students are foreigners studying IELTS and wanted to take IELTS exams. 
