@@ -14,8 +14,8 @@ Goal: To prepare them for daily life in Germany.
 Content includes: Knowledge on emergency situations, culture norm, transportation, accommodation, language survical skills, etc. Some example details include:  
 1. Emergency Situations
 - How to Call for Help:
- - German emergency numbers: 112 (fire and medical), 110 (police).
- - How to describe the emergency in basic German or English.
+  - German emergency numbers: 112 (fire and medical), 110 (police).
+  - How to describe the emergency in basic German or English.
 2.Healthcare Basics:
 How to find the nearest doctor or hospital.
 Understanding the German healthcare system (insurance cards, pharmacies).
