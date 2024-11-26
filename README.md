@@ -10,10 +10,26 @@
 # Project Proposal
 
 ### Target audience
-international Chinese-speaking students who are about to go to Germany for study.   
-### Goal 
-To prepare them for daily life in Germany.  
-### Content/Topics
+The application is designed specifically for **international Chinese-speaking students preparing to study in Germany**. These students often face challenges in adapting to daily life abroad due to cultural, linguistic, and procedural differences. The app aims to bridge this gap by providing practical knowledge and interactive experiences tailored to their needs. 
+### Purpose and Goals
+The primary goal of the application is to **equip students with essential skills and knowledge to navigate everyday situations in Germany confidently**. By addressing topics such as emergencies, cultural norms, public transportation, accommodation, and basic language survival, the app ensures that students are better prepared for real-world scenarios and can integrate smoothly into their new environment.
+### Format
+This will be an interactive game application. We will use a complete storyline (such as "Xiao Ming's Study Abroad Diary in Germany") or several smaller stories, depending on the actual development conditions, to cover all the learning content mentioned above. Through realistic and engaging situational simulations, students will gain knowledge and experience. Afterwards, students will be presented with a series of similar scenarios and asked to determine the appropriate ways to handle them. AI will score their responses, testing whether they have genuinely mastered the relevant content. 
+### Key Features
+1. Interactive Storyline
+- The app uses a dynamic and engaging story-driven format, such as "Xiao Ming's Study Abroad Diary in Germany", to present learning content.
+- The storyline unfolds through a series of interconnected scenarios, mimicking real-life challenges students might face, like navigating public transport or dealing with medical emergencies.
+2. Scenario Simulations
+- Each scenario offers realistic situational simulations, allowing students to interact with their environment and make choices that impact the storyline's progression.
+- For example, a student might choose how to respond to a sudden subway delay or decide what documents to bring when registering for accommodation.
+3. Immediate Feedback and Guidance
+- After each interaction, the app provides context-sensitive feedback and explains why certain choices are better, helping students reflect on their decisions.
+4. Skill Assessment
+- Following the simulation, students encounter similar but slightly altered scenarios to assess whether they’ve internalized the lessons.
+- An AI-driven scoring system evaluates their responses, measuring mastery and offering personalized recommendations for improvement.
+5. Gamified Learning
+- To maintain engagement, the app incorporates gamification elements, such as achievement badges, progress trackers, and rewards for completing levels or excelling in specific topics.
+### Learning Content/Topics
 Knowledge on emergency situations, culture norm, transportation, accommodation, language survical skills, etc. Some example details include:  
 1. Emergency Situations
 - How to Call for Help:
@@ -79,10 +95,8 @@ Knowledge on emergency situations, culture norm, transportation, accommodation, 
   - Common dishes and dietary considerations.
 - Cash vs. Card:
   - Understanding that many places prefer cash.
-  - How to withdraw money or exchange currency.
-### Format
-This will be an interactive game application. We will use a complete storyline (such as "Xiao Ming's Study Abroad Diary in Germany") or several smaller stories, depending on the actual development conditions, to cover all the learning content mentioned above. Through realistic and engaging situational simulations, students will gain knowledge and experience. Afterwards, students will be presented with a series of similar scenarios and asked to determine the appropriate ways to handle them. AI will score their responses, testing whether they have genuinely mastered the relevant content.  
-### Theoretical Framework
+  - How to withdraw money or exchange currency. 
+### Theoretical Framework/Learning Approach
 The Experiential Learning Theory (ELT) proposaed by David Kolb, it is a learning framework that emphasizes gaining knowledge through a continuous cycle of experience, reflection, conceptualization, and experimentation. Especially it's four-stage learning cycle:  
 1. Concrete Experience (CE)
 - The learner gains direct sensory and emotional experiences through active participation in activities.
@@ -122,5 +136,10 @@ The Experiential Learning Theory (ELT) proposaed by David Kolb, it is a learning
   - Data to collect: Students' participation levels in different learning stages (e.g., number of scenarios completed, quantity of reflection notes, test performance) and their overall scores.
 - RQ10: Does completing the entire learning cycle significantly improve students' ability to handle real-life situations?
   - Data to collect: Feedback on students' behavior in real-life contexts after completing the application (e.g., through surveys or observational studies).
+### Expected Impact
+By using this application, students will:
+- Develop a deeper understanding of daily life in Germany through hands-on practice.
+- Build confidence in managing common challenges, reducing anxiety and culture shock.
+- Gain practical skills that directly translate into their real-world experiences abroad.
 ### Programming Language
-Python or Java.
+Python or Java. Web application.
