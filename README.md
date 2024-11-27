@@ -143,4 +143,6 @@ By using this application, students will:
 - Build confidence in managing common challenges, reducing anxiety and culture shock.
 - Gain practical skills that directly translate into their real-world experiences abroad.
 ### Programming Language
-Python or Java. Web application.
+Depends on the needs. TBD. We might use some existing repositries/tools. For example, the visual novel engine [renpy](https://www.renpy.org/) for story simulation games.
+### Example Interface
+![Image](/pics/interface.jpeg)
