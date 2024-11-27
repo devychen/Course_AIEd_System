@@ -11,7 +11,7 @@
 # Project Proposal
 
 ### Target audience
-The application is designed specifically for **international (Chinese-speaking) students preparing to study in Germany**. These students often face challenges in adapting to daily life abroad due to cultural, linguistic, and procedural differences. The app aims to bridge this gap by providing practical knowledge and interactive experiences tailored to their needs. 
+The application is designed specifically for **international students preparing to study in Germany**. These students often face challenges in adapting to daily life abroad due to cultural, linguistic, and procedural differences. The app aims to bridge this gap by providing practical knowledge and interactive experiences tailored to their needs. 
 ### Purpose and Goals
 The primary goal of the application is to **equip students with essential skills and knowledge to navigate everyday situations in Germany confidently**. By addressing topics such as emergencies, cultural norms, public transportation, accommodation, and basic language survival, the app ensures that students are better prepared for real-world scenarios and can integrate smoothly into their new environment.
 ### Format
