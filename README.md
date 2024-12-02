@@ -6,7 +6,7 @@
 **Requirements**: a prototype of a AI-supported education application.
 
 ### Useful links
-[tool-competition](https://tools-competition.org/)
+[tool-competition](https://tools-competition.org/)  
 [draw.io](https://app.diagrams.net/)
 
 # Project Proposal
