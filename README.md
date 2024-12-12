@@ -158,3 +158,8 @@ By using this application, students will:
 Depends on the needs. TBD. We might use some existing repositries/tools. For example, the visual novel engine [renpy](https://www.renpy.org/) for story simulation games.
 ### Example Interface
 ![Image](/pics/interface.jpeg)
+### Example Interface on renpy
+![Image](/pics/renpy_test.png)
+![Image](/pics/renpy_test2.png)
+
+
