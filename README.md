@@ -9,15 +9,8 @@
 [tool-competition](https://tools-competition.org/)  
 [draw.io](https://app.diagrams.net/)
 
-### Next Step
-- Confirmation from the instructors.
-- Storyplot:
-  - Topics & Storyplot (1-day)
-  - Pictures
-  - Teaching questions
-  - Testing part (Situation - statement)
-- Game development
-- AI/LLM integration
+### Updates and Current Process
+Available on notion, access [here](https://www.notion.so/Project-A-15d738761bc88078aec2fe7eb00552ae)
 
 
 # Project Proposal
