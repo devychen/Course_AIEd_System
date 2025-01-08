@@ -10,8 +10,9 @@
 [draw.io](https://app.diagrams.net/)
 
 ### Updates and Current Process
-Available on notion, access [here](https://www.notion.so/Project-A-15d738761bc88078aec2fe7eb00552ae)
-
+08 Jan. Meeting, story plots designed, task asssigned. <br>
+- Picture generated. @Kathy
+- AI integration. @Chen
 
 # Project Proposal
 
